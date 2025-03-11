@@ -13,7 +13,10 @@
 ---
 ### 🔥 Featured Projects  
 - **🚗 Smart Parking System**  
-  Utilizing **Django, React Native, OpenCV, and PyTorch** on a **Raspberry Pi** for real-time **vehicle detection and license plate recognition**.  
+Developing an AI-based parking management system called - **ParkVision** using **React Native** for the mobile app and **Django**
+for the backend. The system leverages deep learning tools such as **OpenCV, YOLO, and PyTorch** for vehicle detection and
+license plate recognition. Integrated with a **Raspberry Pi camera** for real-time data capture, the solution streamlines parking
+operations with accurate and efficient management and helps users efficiently find and reserve available parking spots. 
 - **📄 Django Blog**  
   A blog built with Django, featuring authentication, comments, and REST API.
 
