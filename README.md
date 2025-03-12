@@ -4,7 +4,7 @@
 - 🔍 Interested in backend development, web applications, and problem-solving.
 - 📆 Currently developing an AI-powered smart parking management system utilizing Django, React Native, OpenCV, and PyTorch on a Raspberry Pi for real-time vehicle detection and license plate recognition.
 ---
-🔧 Tech Stack
+🔧 **Tech Stack**
 - Languages: Python, Java, C, C++ .
 - Frameworks : Django.
 - **Databases:** SQLite.
