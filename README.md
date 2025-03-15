@@ -27,10 +27,11 @@ This project focuses on developing a deep learning model to detect and classify 
   - Optimization: Optimized the model using Adam optimizer and cross-entropy loss.
   - Evaluation Metrics: Assessed model performance using precision, recall, F1-score, and confusion matrix to ensure high accuracy and reliability.
   
-  - **Impact:**
-  This model offers significant potential in helping farmers by reducing the time needed for disease detection, preventing crop losses, and improving the overall health of potato plants.
-  •	Achieved 96% accuracy in disease classification
-  •	Reduced potential detection time by approximately 98.33%, from 5 minutes to 5 seconds using the deep learning model.
+  **🌍 Impact:**
+- This model offers significant potential in helping farmers by reducing the time needed for disease detection, preventing crop losses, and improving the overall health of potato plants.
+
+- Achieved 96% accuracy in disease classification.
+- Reduced potential detection time by approximately 98.33%, from 5 minutes to 5 seconds using the deep learning model.
 
 - **📄 Django Blog**  
   A blog built with Django, featuring authentication, comments, and REST API.
