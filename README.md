@@ -1,12 +1,9 @@
 # Hello , I'm Meir! 👋
-- 🚀 Final-year Computer Science student passionate about software development and data science.
-- 💡 Skilled in Python, Django, Java, SQL and always eager to learn new technologies.
-- 🔍 Interested in backend development, web applications, and AI.
-- 📆 **Currently developing an AI-powered smart parking management system utilizing Django, React Native, OpenCV, and PyTorch on a Raspberry Pi for real-time vehicle detection and license plate recognition.**
 ---
 # 💫 About Me:
 🚀 Final-year Computer Science student passionate about software development and data science.<br>💡 Skilled in Python, Django, Java, SQL and always eager to learn new technologies.<br>🔍 Interested in backend development, web applications, and AI.<br>📆 Currently developing an AI-powered smart parking management system utilizing Django, React Native, OpenCV, and PyTorch on a Raspberry Pi for real-time vehicle detection and license plate recognition.<br>
 
+---
 
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MeirHaimov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meir965@gmail.com) 
