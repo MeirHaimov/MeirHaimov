@@ -2,7 +2,7 @@
 - 🚀 Final-year Computer Science student passionate about software development and data science.
 - 💡 Skilled in Python, Django, Java, SQL and always eager to learn new technologies.
 - 🔍 Interested in backend development, web applications, and AI.
-- 📆 Currently developing an AI-powered smart parking management system utilizing Django, React Native, OpenCV, and PyTorch on a Raspberry Pi for real-time vehicle detection and license plate recognition.
+- 📆 **Currently developing an AI-powered smart parking management system utilizing Django, React Native, OpenCV, and PyTorch on a Raspberry Pi for real-time vehicle detection and license plate recognition.**
 ---
 # 💫 About Me:
 🚀 Final-year Computer Science student passionate about software development and data science.<br>💡 Skilled in Python, Django, Java, SQL and always eager to learn new technologies.<br>🔍 Interested in backend development, web applications, and AI.<br>📆 Currently developing an AI-powered smart parking management system utilizing Django, React Native, OpenCV, and PyTorch on a Raspberry Pi for real-time vehicle detection and license plate recognition.<br>
