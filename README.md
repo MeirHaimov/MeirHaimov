@@ -25,7 +25,7 @@
 
 🔧 **Tech Stack**
 - Languages: Python, Java, C, C++ .
-- Frameworks : Django.
+- Frameworks : Django, Node.JS
 - **Databases:** SQLite.
 - **AI & Computer Vision:** OpenCV, PyTorch, Deep Learning, NLP.
 - **REST API & Tools:** Postman, Git.
